@@ -1,7 +1,8 @@
 # competitive-programming
 
 A collection of solutions to various programming problems
-  __________________
+
+```  __________________
 < UNDER CONSTRUCTION >
   ------------------
          \   ^__^ 
@@ -9,3 +10,4 @@ A collection of solutions to various programming problems
              (__)\       )\/\
                  ||----w |
                  ||     ||
+```
