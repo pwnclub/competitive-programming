@@ -2,9 +2,7 @@
 
 A collection of solutions to various programming problems
 
- ____________________
 < UNDER CONSTRUCTION >
- --------------------
         \  ^___^
          \ (ooo)\_______
            (___)\       )\/\
