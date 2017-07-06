@@ -1,10 +1,11 @@
 # competitive-programming
 
 A collection of solutions to various programming problems
-
+  __________________
 < UNDER CONSTRUCTION >
-        \  ^___^
-         \ (ooo)\_______
-           (___)\       )\/\
-                ||----w |
-                ||     ||
+  ------------------
+         \   ^__^ 
+          \  (oo)\_______
+             (__)\       )\/\
+                 ||----w |
+                 ||     ||
