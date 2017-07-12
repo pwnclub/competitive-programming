@@ -15,8 +15,8 @@ A collection of my solutions to various programming problems. These come from a 
 
 The majority of problems I solved on [DMOJ](https://dmoj.ca/), an online judge and contest platform. I have opted to organize them by point value. In general (along with a competition with approximate equivalence in problem difficulty):
 
-* 3/4 Points → Very Easy (CCC Junior 1-2)
-* 5/7 Points → Easy (CCC Junior)
+* 3/4 Points → Very Easy (CCC Junior)
+* 5/7 Points → Easy (CCC Junior/CCC Senior)
 * 10/12 Points → Normal (CCC Senior)
 * 15/20 Points → Hard (CCO)
 * 25/30 Points → Very Hard (IOI)
