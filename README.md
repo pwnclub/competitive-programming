@@ -1,6 +1,6 @@
 # Competitive Programming Solutions
 
-A collection of my solutions to various programming problems. These come from a variety of programming contests, including the following:
+A collection of my solutions to various programming problems (currently 100+). These come from a variety of programming contests, including the following:
 
 * CCC (Canadian Computing Competition)
 * CCO (Candian Computing Olympiad)
