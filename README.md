@@ -8,6 +8,7 @@ A collection of my solutions to various programming problems (currently 100+). T
 * ACM NAQ/ECNA (ACM North American Qualifier/
 * IOI (International Olympiads of Informatics)
 * DMOCP (Don Mills Open Programming Contest)
+* THICC (Toronto Hackers Informatics Computing Competition)
 * GCJ (Google Code Jam)
 * COCI (Croatian Open Competition in Informatics)
 
