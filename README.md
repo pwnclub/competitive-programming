@@ -39,3 +39,7 @@ The first four lines of my solutions indicate the following:
 [Codeforces](http://codeforces.com/profile/pwnclub)
 
 [DMOJ](https://dmoj.ca/user/pwnclub)
+
+[AtCoder](https://atcoder.jp/user/pwnclub)
+
+[CS Academy](https://csacademy.com/user/pwnclub)
